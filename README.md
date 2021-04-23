@@ -6,4 +6,5 @@ for this project.
 
 **This is how my Calculator looks like.**
 
-/Users/khangdu/Desktop
+
+![Screen Shot 2021-04-23 at 22 00 46](https://user-images.githubusercontent.com/78782368/115900946-46787280-a480-11eb-853f-55455f365e76.png)
