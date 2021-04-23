@@ -7,6 +7,6 @@ for this project.
 **This is how my Calculator looks like.**
 
 
-Well it is still not looking that perfect because of the position is sti not fixed properly. Moreover, I am using *tkinter* file to create the calculator and some of the features of this files are not working on Mac. So I finally ended up with this look.
+Well it is still not looking that perfect because of the position is still not fixed properly. Moreover, I am using *tkinter* file to create the calculator and some of the features of this files are not working on Mac. So I finally ended up with this look.
 
 ![Screen Shot 2021-04-23 at 22 00 46](https://user-images.githubusercontent.com/78782368/115900946-46787280-a480-11eb-853f-55455f365e76.png)
