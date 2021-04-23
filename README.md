@@ -4,5 +4,6 @@ Calculator with simple and basic function of Python.Once you understand a single
 for this project.
 
 
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+**This is how my Calculator looks like.**
+
+/Users/khangdu/Desktop
